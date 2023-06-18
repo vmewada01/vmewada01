@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available
 
-- 💬 Ask me about **Html, CSS, Javascript, React**
+- 💬 Ask me about **Html, CSS, Javascript, React,Redux**
 
 - 📫 How to reach me **vishalmewada9826@gmail.com**
 
