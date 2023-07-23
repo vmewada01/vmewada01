@@ -2,8 +2,8 @@
 <h1 align="center">Hello , I am Vishal Mewada</h1>
 <h3 align="center">Full Stack Web Developer, who focuses on writing neat, clean, elegant and efficient code.</h3>
 
+ <img  alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage"> 
 
-![My thought](https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg)
 
 
 
@@ -15,11 +15,6 @@
 - 💬 Ask me about ** MongoDB, Express, Node.js, TypeScript,  React, Redux,Javascript,  CSS, HTML **
 
 - 📫 How to reach me **vishalmewada9826@gmail.com**
-
-
-
-<!-- <img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage"> -->
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -86,8 +81,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vmewada01&" alt="vmewada01" /></p>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vmewada01&bg_color=252324&color=659e4c&line=4c529e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=vmewada01&theme=tokyo-night)
+
+
+
 
 
