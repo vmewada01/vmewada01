@@ -7,12 +7,9 @@
 
 
 
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-
 - 👨‍💻 All of my projects are available
 
-- 💬 Ask me about ** MongoDB, Express, Node.js, TypeScript,  React, Redux,Javascript,  CSS, HTML **
+- 💬 Ask me about ** MongoDB, Express, Node.js, Golang , TypeScript,  React, Redux , Javascript,  CSS , HTML , Tailwind **
 
  - 👨‍💻 Chakra Ui, Talewind , Ant Design , Bootstrap
 
